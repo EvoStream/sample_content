@@ -7,7 +7,7 @@
 
 # Site settings
 title: EvoStream Media Server
-index_title: Documentation main index
+index_title: Back to Index
 home_title: Back to EvoStream.com
 home_url: "https://evostream.com"
 email_name: Administrator
@@ -15,10 +15,10 @@ email: admin@evostream.com
 description: > # this means to ignore newlines until "baseurl:"
   EvoStream, 1010 Turquoise, Suite 101,
   San Diego, CA 92109, California, USA.
-#baseurl: "/sample_content" # the subpath of your site, e.g. /blog
-#url: "http://docs.evostream.com" # the base hostname & protocol for your site
-baseurl: "" # for local test only
-url: "http://localhost:4000" # for local test only
+baseurl: "/sample_content"
+url: "http://docs.evostream.com"
+#baseurl: "" # for local test only
+#url: "http://localhost:4000" # for local test only
 twitter_username: EvoStreamInc
 github_username:  EvoStream
 
