@@ -83,6 +83,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
+    margin-top: 30px;
 }
 
 
@@ -148,6 +149,23 @@ pre {
         padding-right: 0;
         padding-left: 0;
     }
+}
+
+
+/**
+ * Tables
+ */
+table, td,th {
+    border: 1px solid #bbb;
+    padding: 4px;
+}
+table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th {
+    background-color: #ddd;
+    color: black;
 }
 
 
