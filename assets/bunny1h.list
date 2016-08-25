@@ -1,0 +1,8 @@
+# concatenate bunny.mp4 7x
+file 'bunny.mp4'
+file 'bunny.mp4'
+file 'bunny.mp4'
+file 'bunny.mp4'
+file 'bunny.mp4'
+file 'bunny.mp4'
+file 'bunny.mp4'
